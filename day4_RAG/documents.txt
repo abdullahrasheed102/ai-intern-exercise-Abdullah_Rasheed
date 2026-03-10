@@ -1,0 +1,9 @@
+Transformers use self-attention mechanisms for sequence modeling in natural language processing.
+
+Diffusion models generate images by gradually removing noise from random data.
+
+Embeddings convert text into numerical vectors that capture semantic meaning.
+
+Python is a widely used programming language for machine learning and artificial intelligence.
+
+The Hubble Space Telescope captures high-resolution images of distant galaxies and stars.
